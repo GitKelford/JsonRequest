@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1F942D5B-4464-9EEF-F11F-A4A8560B43E4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "JsonRequest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
